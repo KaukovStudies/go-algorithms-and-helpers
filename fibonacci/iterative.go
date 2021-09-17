@@ -1,6 +1,6 @@
 package fibonacci
 
-func Dynamic(n int) int {
+func Iterative(n int) int {
 	if n < 1 {
 		return 1
 	}
